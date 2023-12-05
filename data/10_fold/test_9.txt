@@ -1,0 +1,792 @@
+hsa-mir-486	Ovarian Neoplasms	1
+hsa-mir-210	Osteosarcoma	1
+hsa-mir-501	Polycystic Kidney Diseases	1
+hsa-mir-204	Inferior Wall Myocardial Infarction	1
+hsa-mir-152	Neoplasms	1
+hsa-mir-1298	Arteriosclerosis Obliterans	1
+hsa-mir-761	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-24	Hodgkin Disease	1
+hsa-mir-181b	Prostatic Neoplasms	1
+hsa-mir-125a	Melanoma	1
+hsa-mir-9	Inflammation	1
+hsa-mir-150	Lung Injury	1
+hsa-mir-761	Triple Negative Breast Neoplasms	1
+hsa-mir-145	Glioma	1
+hsa-mir-200c	Lung Neoplasms	1
+hsa-mir-137	Vascular System Injuries	1
+hsa-mir-544a	Stomach Neoplasms	1
+hsa-mir-100	Nasopharyngeal Neoplasms	1
+hsa-mir-92a	Glioma	1
+hsa-mir-1-1	Laryngeal Neoplasms	1
+hsa-mir-23a	Prostatic Neoplasms	1
+hsa-mir-203	Fatty Liver, Alcoholic	1
+hsa-mir-33b	Medulloblastoma	1
+hsa-mir-206	Osteosarcoma	1
+hsa-mir-376a	Neoplasms	1
+hsa-mir-133b	Prostatic Neoplasms	1
+hsa-mir-557	Lung Neoplasms	1
+hsa-mir-616	Stomach Neoplasms	1
+hsa-mir-23b	Endometrial Neoplasms	1
+hsa-mir-143	Urinary Bladder Neoplasms	1
+hsa-mir-142	Leukemia, B-Cell	1
+hsa-let-7a-3	Endometrial Neoplasms	1
+hsa-let-7a	Melanoma	1
+hsa-mir-17	Endometriosis	1
+hsa-mir-520a	Carcinoma, Hepatocellular	1
+hsa-mir-323a	Neoplasms	1
+hsa-mir-31	Triple Negative Breast Neoplasms	1
+hsa-mir-375	Urinary Bladder Neoplasms	1
+hsa-mir-204	Osteosarcoma	1
+hsa-mir-144	Colorectal Neoplasms	1
+hsa-mir-150	Stomach Neoplasms	1
+hsa-mir-199a	Multiple Myeloma	1
+hsa-mir-105	Glioma	1
+hsa-mir-146a	Asthma	1
+hsa-mir-101	Urinary Bladder Neoplasms	1
+hsa-mir-133a-2	Urinary Bladder Neoplasms	1
+hsa-mir-146b	Osteosarcoma	1
+hsa-mir-150	Cardiomegaly	1
+hsa-mir-372	Breast Neoplasms	1
+hsa-mir-133b	Infertility	1
+hsa-mir-377	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-107	Stroke	1
+hsa-mir-9	Uterine Cervical Neoplasms	1
+hsa-mir-193b	Inflammation	1
+hsa-mir-106b	Breast Neoplasms	1
+hsa-mir-455	Colorectal Neoplasms	1
+hsa-let-7a-2	Breast Neoplasms	1
+hsa-mir-200c	Leiomyoma	1
+hsa-mir-34b	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-30a	Colonic Neoplasms	1
+hsa-mir-29a	Neurilemmoma	1
+hsa-mir-130a	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-92b	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-362	Kidney Neoplasms	1
+hsa-mir-31	Arteriosclerosis Obliterans	1
+hsa-mir-100	Leukemia, Myeloid, Acute	1
+hsa-mir-429	Stomach Neoplasms	1
+hsa-mir-302c	Colorectal Neoplasms	1
+hsa-mir-96	Urinary Bladder Neoplasms	1
+hsa-mir-942	Liver Cirrhosis	1
+hsa-mir-302b	Carcinoma, Hepatocellular	1
+hsa-mir-657	Diabetes Mellitus	1
+hsa-mir-138-2	Carcinoma, Renal Cell	1
+hsa-mir-181b	Ovarian Neoplasms	1
+hsa-mir-204	Breast Neoplasms	1
+hsa-mir-146a	Colorectal Neoplasms	1
+hsa-mir-199a-2	Urinary Bladder Neoplasms	1
+hsa-mir-212	Breast Neoplasms	1
+hsa-let-7e	Hypertrophy	1
+hsa-mir-335	Breast Neoplasms	1
+hsa-mir-145	Endometrial Neoplasms	1
+hsa-mir-30e	Neoplasms	1
+hsa-mir-491	Stomach Neoplasms	1
+hsa-mir-505	Carcinoma, Hepatocellular	1
+hsa-mir-141	Aortic Valve Stenosis	1
+hsa-mir-125a	Glioma	1
+hsa-mir-143	Breast Neoplasms	1
+hsa-mir-29c	Carcinoma, Embryonal	1
+hsa-mir-21	Cholesteatoma	1
+hsa-mir-21	Cardiomyopathy, Hypertrophic	1
+hsa-mir-127	Osteosarcoma	1
+hsa-mir-145	Choriocarcinoma	1
+hsa-mir-449b	Liver Neoplasms	1
+hsa-mir-1228	Breast Neoplasms	1
+hsa-mir-503	Osteosarcoma	1
+hsa-mir-125b-2	Carcinoma, Hepatocellular	1
+hsa-mir-194	Colorectal Neoplasms	1
+hsa-mir-146a	Brain Ischemia	1
+hsa-mir-27b	Ocular Motility Disorders	1
+hsa-mir-410	Lupus Erythematosus, Systemic	1
+hsa-mir-204	Triple Negative Breast Neoplasms	1
+hsa-mir-221	Myocardial Reperfusion Injury	1
+hsa-mir-148b	Inferior Wall Myocardial Infarction	1
+hsa-mir-205	Endometrial Neoplasms	1
+hsa-mir-223	Sepsis	1
+hsa-mir-10b	Glioblastoma	1
+hsa-mir-3162	Asthma	1
+hsa-mir-338	Breast Neoplasms	1
+hsa-mir-429	Carcinoma, Hepatocellular	1
+hsa-mir-10a	Leukemia, Myeloid, Acute	1
+hsa-mir-326	Multiple Sclerosis	1
+hsa-mir-9-1	Neuroblastoma	1
+hsa-mir-10b	Osteosarcoma	1
+hsa-mir-192	Neuroblastoma	1
+hsa-mir-93	Colorectal Neoplasms	1
+hsa-mir-21	Lymphoma, Large B-Cell, Diffuse	1
+hsa-mir-548d-2	Medulloblastoma	1
+hsa-mir-483	Adrenocortical Carcinoma	1
+hsa-mir-211	Triple Negative Breast Neoplasms	1
+hsa-mir-1	Chordoma	1
+hsa-mir-134	Head and Neck Neoplasms	1
+hsa-mir-106a	Stomach Neoplasms	1
+hsa-mir-429	Urinary Bladder Neoplasms	1
+hsa-mir-26a	Osteoarthritis	1
+hsa-mir-205	Carcinoma, Squamous Cell	1
+hsa-mir-497	Reperfusion Injury	1
+hsa-mir-30a	Carcinoma, Renal Cell	1
+hsa-mir-9-2	Colonic Neoplasms	1
+hsa-let-7f-1	Endometrial Neoplasms	1
+hsa-mir-127	Lung Neoplasms	1
+hsa-mir-125b	Urinary Bladder Neoplasms	1
+hsa-mir-199a-1	Urinary Bladder Neoplasms	1
+hsa-mir-1271	Diabetes Mellitus, Type 2	1
+hsa-mir-18	Atrial Fibrillation	1
+hsa-mir-150	Leukemia	1
+hsa-mir-217	Stomach Neoplasms	1
+hsa-mir-138	Sepsis	1
+hsa-mir-485	Colorectal Neoplasms	1
+hsa-mir-208a	Myocardial Infarction	1
+hsa-mir-302a	Carcinoma, Pancreatic Ductal	1
+hsa-mir-125b-2	Breast Neoplasms	1
+hsa-mir-539	Mastocytosis, Systemic	1
+hsa-mir-206	Amyotrophic Lateral Sclerosis	1
+hsa-mir-155	Epilepsy, Temporal Lobe	1
+hsa-mir-16	Lymphoma, Non-Hodgkin	1
+hsa-mir-196a	Mouth Neoplasms	1
+hsa-mir-342	Colorectal Neoplasms	1
+hsa-mir-608	Chordoma	1
+hsa-mir-17	Carcinoma, Hepatocellular	1
+hsa-mir-199a	Colorectal Neoplasms	1
+hsa-mir-17	Medulloblastoma	1
+hsa-mir-101	Alzheimer Disease	1
+hsa-mir-874	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-661	Glioma	1
+hsa-mir-381	Carcinoma, Renal Cell	1
+hsa-mir-1246	Uterine Cervical Neoplasms	1
+hsa-mir-24-2	Glioma	1
+hsa-mir-222	Ovarian Neoplasms	1
+hsa-mir-367	Glioblastoma	1
+hsa-mir-200a	Carcinoma, Renal Cell	1
+hsa-mir-224	Inflammatory Bowel Diseases	1
+hsa-let-7g	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-138-1	Neoplasms	1
+hsa-mir-503	Neoplasms	1
+hsa-mir-451	Carcinoma, Hepatocellular	1
+hsa-mir-9-1	Breast Neoplasms	1
+hsa-mir-193b	Leukemia, Myeloid, Acute	1
+hsa-mir-24-1	Urinary Bladder Neoplasms	1
+hsa-let-7a-3	Lung Neoplasms	1
+hsa-mir-137	Neuroblastoma	1
+hsa-mir-125b	Multiple Myeloma	1
+hsa-mir-455	Diabetic Nephropathies	1
+hsa-mir-21	Peritoneal Fibrosis	1
+hsa-mir-146a	Spondylitis, Ankylosing	1
+hsa-mir-15a	Reperfusion Injury	1
+hsa-mir-218	Hypersensitivity	1
+hsa-mir-582	Lung Neoplasms	1
+hsa-mir-1-1	Cardiomegaly	1
+hsa-mir-192	Breast Neoplasms	1
+hsa-mir-17	Melanoma	1
+hsa-mir-153-2	Glioblastoma	1
+hsa-mir-124a	Glioma	1
+hsa-mir-126	Parkinson Disease	1
+hsa-mir-7	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-203	Wound Healing	1
+hsa-mir-19a	Thyroid Carcinoma, Anaplastic	1
+hsa-mir-146a	Autism Spectrum Disorder	1
+hsa-mir-20b	Tuberculosis	1
+hsa-mir-154	Prostatic Neoplasms	1
+hsa-mir-124	Colitis, Ulcerative	1
+hsa-mir-330	Cardiovascular Diseases	1
+hsa-mir-19b-2	Neoplasms	1
+hsa-mir-106b	Gastrointestinal Neoplasms	1
+hsa-mir-181a	Glioma	1
+hsa-mir-143	Inflammation	1
+hsa-mir-3127	Carcinoma, Hepatocellular	1
+hsa-mir-155	Glioma	1
+hsa-mir-224	Lung Neoplasms	1
+hsa-mir-125b-2	Endometrial Neoplasms	1
+hsa-mir-17	Diabetes Mellitus, Type 2	1
+hsa-mir-1236	Carcinoma, Hepatocellular	1
+hsa-mir-483	Glioma	1
+hsa-mir-503	Atherosclerosis	1
+hsa-mir-99a	Pancreatic Neoplasms	1
+hsa-mir-542	Neoplasms	1
+hsa-mir-21	Melanoma	1
+hsa-mir-449a	Hepatitis B	1
+hsa-mir-19a	Atrial Fibrillation	1
+hsa-mir-99b	Colorectal Neoplasms	1
+hsa-mir-155	Acute Lung Injury	1
+hsa-mir-31	Coronary Artery Disease	1
+hsa-mir-200a	Glioma	1
+hsa-mir-520a	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	1
+hsa-mir-210	Spinal Cord Injuries	1
+hsa-mir-132	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-29a	Prostatic Neoplasms	1
+hsa-mir-15a	Arthritis, Psoriatic	1
+hsa-mir-145	Sepsis	1
+hsa-mir-299	Carcinoma, Hepatocellular	1
+hsa-mir-22	Breast Neoplasms	1
+hsa-mir-34b	Acute Lung Injury	1
+hsa-mir-214	Parkinson Disease	1
+hsa-mir-196a	Pancreatic Neoplasms	1
+hsa-mir-424	Carcinoma, Renal Cell	1
+hsa-mir-15a	Diabetes Mellitus	1
+hsa-mir-183	Carcinoma, Pancreatic Ductal	1
+hsa-mir-191	Neoplasms	1
+hsa-mir-34c	Myocardial Infarction	1
+hsa-mir-21	Leprosy	1
+hsa-mir-17	Liver Cirrhosis	1
+hsa-mir-130b	Glioma	1
+hsa-mir-195	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-34a	Kidney Neoplasms	1
+hsa-mir-21	Colorectal Neoplasms	1
+hsa-mir-194	Liver Neoplasms	1
+hsa-mir-101	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	1
+hsa-mir-148b	Liver Neoplasms	1
+hsa-mir-29a	Colitis, Ulcerative	1
+hsa-mir-21	Hyperaldosteronism	1
+hsa-mir-133a-1	Urinary Bladder Neoplasms	1
+hsa-mir-517a	Lung Neoplasms	1
+hsa-mir-138	Periodontal Diseases	1
+hsa-mir-196b	Leukemia	1
+hsa-mir-124	Myocardial Infarction	1
+hsa-mir-301a	Carcinoma, Hepatocellular	1
+hsa-mir-451	Ovarian Neoplasms	1
+hsa-mir-17	Atherosclerosis	1
+hsa-mir-490	Lung Neoplasms	1
+hsa-mir-200c	Endometriosis	1
+hsa-mir-7-3	Carcinoma, Hepatocellular	1
+hsa-mir-155	Graft vs Host Disease	1
+hsa-mir-185	Stomach Neoplasms	1
+hsa-mir-138-1	Carcinoma, Hepatocellular	1
+hsa-mir-141	Hepatitis B	1
+hsa-mir-1246	Inflammatory Bowel Diseases	1
+hsa-mir-19a	Cholangiocarcinoma	1
+hsa-mir-101-1	Carcinoma, Renal Cell	1
+hsa-mir-141	Neuroblastoma	1
+hsa-mir-34	Stomach Neoplasms	1
+hsa-let-7g	Osteosarcoma	1
+hsa-mir-29c	Colorectal Neoplasms	1
+hsa-mir-31	Leiomyosarcoma	1
+hsa-let-7b	Inflammation	1
+hsa-mir-196b	Leukemia, Myeloid, Acute	1
+hsa-mir-137	Colorectal Neoplasms	1
+hsa-mir-1-2	Cardiomegaly	1
+hsa-mir-378	Carcinoma, Hepatocellular	1
+hsa-mir-139	Pancreatic Neoplasms	1
+hsa-mir-330	Glioblastoma	1
+hsa-mir-520c	Breast Neoplasms	1
+hsa-mir-195	Wilms Tumor	1
+hsa-mir-302a	Breast Neoplasms	1
+hsa-mir-21	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	1
+hsa-mir-222	Obesity	1
+hsa-mir-140	Retinoblastoma	1
+hsa-mir-19b	Lung Neoplasms	1
+hsa-mir-30c	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-126	Pancreatic Neoplasms	1
+hsa-mir-409	Prostatic Neoplasms	1
+hsa-mir-466	Lymphoma	1
+hsa-mir-130a	Hepatitis B	1
+hsa-mir-210	Osteoarthritis	1
+hsa-mir-200b	Colorectal Neoplasms	1
+hsa-mir-26a	Carcinoma, Hepatocellular	1
+hsa-mir-9	Laryngeal Neoplasms	1
+hsa-mir-506	Uterine Cervical Neoplasms	1
+hsa-mir-126	Giant Cell Tumor of Bone	1
+hsa-mir-7-2	Lung Neoplasms	1
+hsa-mir-138	Urinary Bladder Neoplasms	1
+hsa-mir-223	Leukemia, Promyelocytic, Acute	1
+hsa-mir-19a	Osteosarcoma	1
+hsa-mir-19a	Urinary Bladder Neoplasms	1
+hsa-mir-30a	Prostatic Neoplasms	1
+hsa-mir-133a	Glioma	1
+hsa-mir-744	Inflammation	1
+hsa-mir-221	Neuroblastoma	1
+hsa-mir-29c	Prostatic Neoplasms	1
+hsa-mir-197	Carcinoma, Hepatocellular	1
+hsa-mir-570	Carcinoma, Hepatocellular	1
+hsa-mir-124	Spondylitis, Ankylosing	1
+hsa-mir-106b	Inferior Wall Myocardial Infarction	1
+hsa-mir-302	Neurodegenerative Diseases	1
+hsa-mir-100	Carcinoma, Hepatocellular	1
+hsa-mir-329	Glioma	1
+hsa-mir-196b	Lung Neoplasms	1
+hsa-let-7a-2	Neoplasms	1
+hsa-mir-495	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-185	Idiopathic Pulmonary Fibrosis	1
+hsa-mir-652	Prostatic Neoplasms	1
+hsa-mir-143	Prostatic Neoplasms	1
+hsa-mir-205	Diabetes Mellitus, Type 2	1
+hsa-mir-125b-2	Glioblastoma	1
+hsa-mir-652	Pancreatic Neoplasms	1
+hsa-mir-302c	Glioma	1
+hsa-mir-212	Stomach Neoplasms	1
+hsa-mir-144	Osteosarcoma	1
+hsa-mir-34c	Carcinoma, Hepatocellular	1
+hsa-mir-365	Stomach Neoplasms	1
+hsa-mir-30b	Laryngeal Neoplasms	1
+hsa-mir-9	Schizophrenia	1
+hsa-mir-15a	Lymphoma	1
+hsa-mir-192	Carcinoma, Pancreatic Ductal	1
+hsa-mir-550a-3	Carcinoma, Hepatocellular	1
+hsa-mir-144	Carcinoma, Renal Cell	1
+hsa-mir-31	Muscular Dystrophy, Duchenne	1
+hsa-mir-133a	Endometrial Neoplasms	1
+hsa-mir-206	Muscular Atrophy	1
+hsa-mir-15b	Carcinoma, Hepatocellular	1
+hsa-mir-32	Glioblastoma	1
+hsa-mir-448	Aneurysm	1
+hsa-mir-98	Hypertension, Pulmonary	1
+hsa-mir-613	Triple Negative Breast Neoplasms	1
+hsa-mir-223	Breast Neoplasms	1
+hsa-mir-21	Aneurysm	1
+hsa-mir-200c	Endometrial Neoplasms	1
+hsa-mir-185	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-199a	Heart Diseases	1
+hsa-mir-221	Thyroid Neoplasms	1
+hsa-mir-301a	Breast Neoplasms	1
+hsa-mir-518d	Diabetes, Gestational	1
+hsa-mir-26a	Reperfusion Injury	1
+hsa-mir-5590	Stomach Neoplasms	1
+hsa-mir-451	Leukemia, Myeloid, Acute	1
+hsa-mir-656	Glioma	1
+hsa-mir-133a	Urinary Bladder Neoplasms	1
+hsa-mir-148a	Lupus Nephritis	1
+hsa-mir-124	Lung Neoplasms	1
+hsa-let-7a-3	Melanoma	1
+hsa-mir-181d	Glioma	1
+hsa-mir-142	Aneurysm	1
+hsa-mir-550a-1	Carcinoma, Hepatocellular	1
+hsa-mir-196b	Stomach Neoplasms	1
+hsa-mir-374a	Stomach Neoplasms	1
+hsa-mir-296	Stomach Neoplasms	1
+hsa-mir-7-3	Melanoma	1
+hsa-mir-134	Glioblastoma	1
+hsa-mir-17	Osteosarcoma	1
+hsa-mir-31	Melanoma	1
+hsa-mir-33a	Fatty Liver	1
+hsa-mir-15b	Leukemia, Lymphocytic, Chronic, B-Cell	1
+hsa-mir-203a	Carcinoma, Hepatocellular	1
+hsa-mir-92a	Diabetes Mellitus	1
+hsa-mir-103b-2	Endometrial Neoplasms	1
+hsa-mir-19b-1	Lymphoma, Mantle-Cell	1
+hsa-mir-130a	Ovarian Neoplasms	1
+hsa-mir-124	Medulloblastoma	1
+hsa-mir-29b	Hypertension, Pulmonary	1
+hsa-mir-610	Lung Neoplasms	1
+hsa-mir-135a	Uterine Cervical Neoplasms	1
+hsa-mir-26a	Heart Diseases	1
+hsa-mir-429	Breast Neoplasms	1
+hsa-mir-7	Glioma	1
+hsa-mir-18a	Urinary Bladder Neoplasms	1
+hsa-mir-21	Osteoarthritis	1
+hsa-mir-16-1	Leukemia, B-Cell	1
+hsa-mir-183	Osteosarcoma	1
+hsa-let-7d	Inflammation	1
+hsa-mir-7-2	Melanoma	1
+hsa-mir-143	Pancreatic Neoplasms	1
+hsa-mir-188	Prostatic Neoplasms	1
+hsa-mir-204	Carcinoma, Hepatocellular	1
+hsa-mir-181b	Osteosarcoma	1
+hsa-mir-296	Ovarian Neoplasms	1
+hsa-mir-34a	Influenza, Human	1
+hsa-let-7a-1	Lung Neoplasms	1
+hsa-mir-27a	Carcinoma, Hepatocellular	1
+hsa-mir-217	Uterine Cervical Neoplasms	1
+hsa-mir-150	Osteoporosis	1
+hsa-mir-342	Carcinoma, Hepatocellular	1
+hsa-mir-200c	Glioma	1
+hsa-mir-15a	Colorectal Neoplasms	1
+hsa-mir-153	Stomach Neoplasms	1
+hsa-mir-363	Colorectal Neoplasms	1
+hsa-mir-204	Leukemia, Myeloid, Acute	1
+hsa-mir-29b	Inflammation	1
+hsa-mir-323a	Osteosarcoma	1
+hsa-mir-505	Endometrial Neoplasms	1
+hsa-mir-16-2	Retinoblastoma	1
+hsa-mir-26b	Urinary Bladder Neoplasms	1
+hsa-mir-448	Carcinoma, Hepatocellular	1
+hsa-mir-16-1	Multiple Myeloma	1
+hsa-mir-26a-2	Breast Neoplasms	1
+hsa-mir-24	Endometrial Neoplasms	1
+hsa-mir-15a	Aortic Aneurysm, Abdominal	1
+hsa-mir-20a	Leukemia-Lymphoma, Adult T-Cell	1
+hsa-mir-639	Thyroid Neoplasms	1
+hsa-mir-19a	Osteoarthritis	1
+hsa-mir-630	Pancreatic Neoplasms	1
+hsa-mir-328	Atherosclerosis	1
+hsa-mir-210	Ischemia	1
+hsa-mir-10b	Urinary Bladder Neoplasms	1
+hsa-mir-107	Myocardial Infarction	1
+hsa-mir-26a	Pancreatic Neoplasms	1
+hsa-mir-212	Heart Diseases	1
+hsa-mir-206	Rhabdomyosarcoma	1
+hsa-mir-218	Glioblastoma	1
+hsa-mir-519c	Neoplasms	1
+hsa-mir-497	Neuroblastoma	1
+hsa-mir-17	Neoplasms	1
+hsa-mir-124-1	Arthritis, Rheumatoid	1
+hsa-mir-29	Stomach Neoplasms	1
+hsa-mir-125b	Osteosarcoma	1
+hsa-mir-218	Uterine Cervical Neoplasms	1
+hsa-mir-1291	Carcinoma, Renal Cell	1
+hsa-mir-1297	Lung Neoplasms	1
+hsa-mir-629	Ovarian Neoplasms	1
+hsa-mir-129	Osteosarcoma	1
+hsa-mir-195	Urinary Bladder Neoplasms	1
+hsa-mir-106b	Retinoblastoma	1
+hsa-mir-192	Chemical and Drug Induced Liver Injury	1
+hsa-mir-720	Triple Negative Breast Neoplasms	1
+hsa-mir-452	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-30c	Hypertension, Pulmonary	1
+hsa-mir-519d	Pre-Eclampsia	1
+hsa-mir-197	Lung Neoplasms	1
+hsa-mir-206	Myocardial Infarction	1
+hsa-mir-26a	Graft vs Host Disease	1
+hsa-mir-720	Hepatitis B, Chronic	1
+hsa-mir-26b	Prostatic Neoplasms	1
+hsa-mir-429	Osteosarcoma	1
+hsa-mir-29b	Breast Neoplasms	1
+hsa-mir-942	Hepatitis C	1
+hsa-mir-146b	Neoplasms	1
+hsa-mir-24	Urinary Bladder Neoplasms	1
+hsa-mir-204	Pre-Eclampsia	1
+hsa-mir-381	Kidney Neoplasms	1
+hsa-mir-101-2	Neoplasms	1
+hsa-mir-381	Myocarditis	1
+hsa-mir-548c	Ovarian Neoplasms	1
+hsa-mir-138-1	Lung Neoplasms	1
+hsa-mir-146a	Graves Disease	1
+hsa-mir-502	Esophageal Neoplasms	1
+hsa-mir-16	Lymphoma, T-Cell, Cutaneous	1
+hsa-mir-20a	Carcinoma, Hepatocellular	1
+hsa-mir-22	Rhabdomyosarcoma	1
+hsa-mir-125a	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-15a	Breast Neoplasms	1
+hsa-mir-24-1	Laryngeal Neoplasms	1
+hsa-mir-7	Colorectal Neoplasms	1
+hsa-mir-31	Inflammation	1
+hsa-mir-22	Huntington Disease	1
+hsa-mir-382	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-590	Glioblastoma	1
+hsa-mir-92b	Glioblastoma	1
+hsa-mir-22	Lung Neoplasms	1
+hsa-mir-382	Prostatic Neoplasms	1
+hsa-mir-182	Atherosclerosis	1
+hsa-mir-19b	Leukemia, B-Cell	1
+hsa-mir-137	Melanoma	1
+hsa-mir-203	Glioblastoma	1
+hsa-mir-302a	Atherosclerosis	1
+hsa-mir-370	Liver Cirrhosis	1
+hsa-mir-520b	Breast Neoplasms	1
+hsa-let-7a-2	Colonic Neoplasms	1
+hsa-mir-21	Diabetic Nephropathies	1
+hsa-mir-1	Neoplasms	1
+hsa-mir-223	Glioma	1
+hsa-mir-204	Neuroblastoma	1
+hsa-mir-493	Breast Neoplasms	1
+hsa-mir-140	Stomach Neoplasms	1
+hsa-mir-17	Graft vs Host Disease	1
+hsa-mir-18a	Musculoskeletal Abnormalities	1
+hsa-mir-7-3	Lung Neoplasms	1
+hsa-mir-103	Stroke	1
+hsa-mir-22	Pancreatitis, Acute Necrotizing	1
+hsa-let-7b	Ectodermal Dysplasia 1, Anhidrotic	1
+hsa-mir-124	Esophageal Neoplasms	1
+hsa-mir-200a	Liver Cirrhosis	1
+hsa-mir-19b-2	Leukemia, Myeloid, Acute	1
+hsa-mir-26a	Lymphoma	1
+hsa-mir-599	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-7-3	Glioma	1
+hsa-mir-634	Uterine Cervical Neoplasms	1
+hsa-mir-302a	Glioblastoma	1
+hsa-mir-1-2	Thyroid Neoplasms	1
+hsa-mir-93	Stomach Neoplasms	1
+hsa-mir-204	Uterine Cervical Neoplasms	1
+hsa-mir-15b	Prostatic Neoplasms	1
+hsa-mir-124	Melanoma	1
+hsa-mir-210	Laryngeal Neoplasms	1
+hsa-mir-410	Pancreatic Neoplasms	1
+hsa-mir-30c	Endometrial Neoplasms	1
+hsa-mir-223	Prostatic Neoplasms	1
+hsa-mir-603	Triple Negative Breast Neoplasms	1
+hsa-mir-181b	Glioma	1
+hsa-mir-21	Leukemia, Myeloid, Acute	1
+hsa-mir-424	Breast Neoplasms	1
+hsa-mir-135a-2	Carcinoma, Hepatocellular	1
+hsa-mir-155	Carcinoma, Renal Cell	1
+hsa-mir-196b	Endometriosis	1
+hsa-mir-134	Neuralgia	1
+hsa-mir-145	Stroke	1
+hsa-mir-302c	Glioblastoma	1
+hsa-mir-550a	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-135a	Urinary Bladder Neoplasms	1
+hsa-mir-543	Prostatic Neoplasms	1
+hsa-mir-106b	Carcinoma, Renal Cell	1
+hsa-mir-215	Colonic Neoplasms	1
+hsa-mir-16-1	Prostatic Neoplasms	1
+hsa-mir-217	Pancreatic Neoplasms	1
+hsa-mir-1-1	Carcinoma, Hepatocellular	1
+hsa-mir-124-3	Medulloblastoma	1
+hsa-mir-937	Alzheimer Disease	1
+hsa-mir-449a	Lung Neoplasms	1
+hsa-mir-940	Stomach Neoplasms	1
+hsa-mir-128-1	Neuroblastoma	1
+hsa-mir-193b	Chemical and Drug Induced Liver Injury	1
+hsa-let-7g	Carcinoma, Hepatocellular	1
+hsa-mir-26a	Idiopathic Pulmonary Fibrosis	1
+hsa-mir-32	Carcinoma, Hepatocellular	1
+hsa-mir-499b	Carcinoma, Hepatocellular	1
+hsa-mir-134	Lung Neoplasms	1
+hsa-mir-21	Cholangiocarcinoma	1
+hsa-mir-29a	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-34c	Prostatic Neoplasms	1
+hsa-mir-125b-2	Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	1
+hsa-mir-550a-2	Carcinoma, Hepatocellular	1
+hsa-mir-874	Breast Neoplasms	1
+hsa-mir-17	Cholangiocarcinoma	1
+hsa-mir-1179	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-4417	Carcinoma, Hepatocellular	1
+hsa-mir-183	Carcinoma, Hepatocellular	1
+hsa-mir-330	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-26a	Uterine Cervical Neoplasms	1
+hsa-mir-483	Colonic Neoplasms	1
+hsa-mir-145	Pituitary Neoplasms	1
+hsa-mir-21	Spinal Cord Injuries	1
+hsa-mir-320b-1	Breast Neoplasms	1
+hsa-mir-429	Fibrosarcoma	1
+hsa-mir-125b-1	Leukemia, B-Cell	1
+hsa-mir-124	Arbovirus Infections	1
+hsa-mir-150	Lung Neoplasms	1
+hsa-mir-665	Carcinoma, Hepatocellular	1
+hsa-mir-101	Lung Neoplasms	1
+hsa-mir-590	Asthma	1
+hsa-mir-222	Atherosclerosis	1
+hsa-mir-100	Neoplasms	1
+hsa-mir-140	Colorectal Neoplasms	1
+hsa-mir-221	Aneurysm	1
+hsa-mir-181b-2	Urinary Bladder Neoplasms	1
+hsa-mir-150	Thyroid Neoplasms	1
+hsa-mir-133a-1	Liver Cirrhosis	1
+hsa-mir-362	Colorectal Neoplasms	1
+hsa-mir-539	Osteosarcoma	1
+hsa-mir-320a	Colorectal Neoplasms	1
+hsa-mir-214	Lung Neoplasms	1
+hsa-mir-499	Myocardial Infarction	1
+hsa-mir-30d	Neoplasms	1
+hsa-mir-498	Lung Neoplasms	1
+hsa-mir-137	Carcinoma, Renal Cell	1
+hsa-mir-137	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-944	Osteosarcoma	1
+hsa-mir-146a	Listeriosis	1
+hsa-mir-192	Diabetes Mellitus, Type 1	1
+hsa-let-7c	Lung Neoplasms	1
+hsa-mir-223	Diabetes Mellitus, Type 2	1
+hsa-mir-195	Thyroid Neoplasms	1
+hsa-mir-214	Stomach Neoplasms	1
+hsa-mir-34b	Spinal Cord Injuries	1
+hsa-mir-495	Prostatic Neoplasms	1
+hsa-mir-492	Hepatoblastoma	1
+hsa-mir-326	Pulmonary Fibrosis	1
+hsa-mir-181a	Glioblastoma	1
+hsa-mir-19b-1	Thyroid Carcinoma, Anaplastic	1
+hsa-mir-155	Hypersensitivity	1
+hsa-mir-629	Liver Neoplasms	1
+hsa-mir-195	Breast Neoplasms	1
+hsa-mir-200b	Cicatrix, Hypertrophic	1
+hsa-mir-30b	Stomach Neoplasms	1
+hsa-mir-222	Neoplasms	1
+hsa-mir-148a	Prostatic Neoplasms	1
+hsa-mir-223	Lupus Nephritis	1
+hsa-mir-103	Atherosclerosis	1
+hsa-mir-148a	Glioblastoma	1
+hsa-mir-186	Urinary Bladder Neoplasms	1
+hsa-mir-31	Chordoma	1
+hsa-mir-222	Pancreatic Neoplasms	1
+hsa-mir-10b	Uterine Cervical Neoplasms	1
+hsa-mir-210	Urinary Bladder Neoplasms	1
+hsa-mir-27b	Aneurysm	1
+hsa-mir-211	Colorectal Neoplasms	1
+hsa-mir-520c	Lymphoma, Large B-Cell, Diffuse	1
+hsa-mir-125b	Leukemia, Myelogenous, Chronic, BCR-ABL Positive	1
+hsa-mir-21	Periodontitis	1
+hsa-mir-196a	Stomach Neoplasms	1
+hsa-mir-182	Lung Neoplasms	1
+hsa-mir-208a	Stomach Neoplasms	1
+hsa-mir-152	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-10b	Carcinoma, Hepatocellular	1
+hsa-mir-152	Diabetic Retinopathy	1
+hsa-mir-124	Endometrial Neoplasms	1
+hsa-mir-370	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-27a	Prostatic Neoplasms	1
+hsa-mir-130a	Leukemia, Lymphocytic, Chronic, B-Cell	1
+hsa-mir-29a	Diabetic Retinopathy	1
+hsa-mir-133b	Cardiomegaly	1
+hsa-mir-143	Dermatitis, Atopic	1
+hsa-mir-132	Inflammation	1
+hsa-mir-29b-2	Kidney Diseases	1
+hsa-mir-146a	Coronavirus Infections	1
+hsa-mir-223	Osteosarcoma	1
+hsa-mir-488	Prostatic Neoplasms	1
+hsa-mir-125a	Colonic Neoplasms	1
+hsa-mir-211	Head and Neck Neoplasms	1
+hsa-mir-766	Carcinoma, Hepatocellular	1
+hsa-mir-26a	Diabetes Mellitus, Type 2	1
+hsa-mir-1207	Carcinoma, Hepatocellular	1
+hsa-mir-302d	Carcinoma, Hepatocellular	1
+hsa-mir-92a	Leukemia, Myeloid, Acute	1
+hsa-mir-26b	Neoplasms	1
+hsa-mir-138-1	Carcinoma, Renal Cell	1
+hsa-let-7f-2	Colonic Neoplasms	1
+hsa-mir-21	Inferior Wall Myocardial Infarction	1
+hsa-mir-7-1	Colorectal Neoplasms	1
+hsa-mir-130b	Breast Neoplasms	1
+hsa-mir-126	Liver Cirrhosis	1
+hsa-mir-574	Colorectal Neoplasms	1
+hsa-mir-506	Cardiovascular Diseases	1
+hsa-mir-224	Melanoma	1
+hsa-mir-124	Stroke	1
+hsa-mir-132	Pancreatic Neoplasms	1
+hsa-mir-146a	Stomach Neoplasms	1
+hsa-mir-27b	Multiple Myeloma	1
+hsa-mir-373	Lymphoma, T-Cell	1
+hsa-mir-101	Laryngeal Neoplasms	1
+hsa-mir-34c	Colorectal Neoplasms	1
+hsa-mir-340	Osteosarcoma	1
+hsa-mir-203	Oral Submucous Fibrosis	1
+hsa-mir-181d	Glioblastoma	1
+hsa-mir-9	Melanoma	1
+hsa-mir-15a	Melanoma	1
+hsa-mir-130a	Diabetes Mellitus	1
+hsa-mir-31	Psoriasis	1
+hsa-mir-20a	Gallbladder Neoplasms	1
+hsa-mir-181a	Lymphoma, Large B-Cell, Diffuse	1
+hsa-mir-320d-2	Breast Neoplasms	1
+hsa-mir-26a-1	Breast Neoplasms	1
+hsa-mir-221	Glioma	1
+hsa-mir-29a	Glioblastoma	1
+hsa-mir-222	Uterine Cervical Neoplasms	1
+hsa-mir-193a	Osteosarcoma	1
+hsa-mir-15a	Neuroblastoma	1
+hsa-mir-383	Glioma	1
+hsa-mir-448	Breast Neoplasms	1
+hsa-mir-140	Acute Lung Injury	1
+hsa-mir-93	Glioblastoma	1
+hsa-mir-493	Urinary Bladder Neoplasms	1
+hsa-mir-135a	Carcinoma, Pancreatic Ductal	1
+hsa-mir-135b	Osteosarcoma	1
+hsa-mir-138	Gallbladder Neoplasms	1
+hsa-mir-320	Ovarian Neoplasms	1
+hsa-mir-486	Colorectal Neoplasms	1
+hsa-mir-193b	Carcinoma, Pancreatic Ductal	1
+hsa-mir-200b	Inflammatory Bowel Diseases	1
+hsa-mir-181c	Lung Neoplasms	1
+hsa-mir-1	Asthma	1
+hsa-mir-139	Glioma	1
+hsa-mir-27a	Ovarian Neoplasms	1
+hsa-mir-155	Leukemia, B-Cell	1
+hsa-mir-146a	Heart Failure	1
+hsa-mir-373	Testicular Neoplasms	1
+hsa-mir-200c	Pulmonary Fibrosis	1
+hsa-mir-181c	Neuroblastoma	1
+hsa-mir-100	Osteosarcoma	1
+hsa-mir-154	Carcinoma, Hepatocellular	1
+hsa-mir-372	Hepatitis B	1
+hsa-mir-29c	Brain Diseases	1
+hsa-mir-29c	Muscular Dystrophy, Duchenne	1
+hsa-mir-27b	Adenoviridae Infections	1
+hsa-mir-92a	Leukemia, B-Cell	1
+hsa-mir-210	Atherosclerosis	1
+hsa-mir-24	Prostatic Neoplasms	1
+hsa-mir-124	Ovarian Neoplasms	1
+hsa-mir-876	Carcinoma, Hepatocellular	1
+hsa-mir-93	Prostatic Neoplasms	1
+hsa-mir-1301	Prostatic Neoplasms	1
+hsa-mir-27b	Breast Neoplasms	1
+hsa-mir-29a	Breast Neoplasms	1
+hsa-mir-1	Prostatic Neoplasms	1
+hsa-mir-338	Uterine Cervical Neoplasms	1
+hsa-mir-124-3	Breast Neoplasms	1
+hsa-mir-1247	Pancreatic Neoplasms	1
+hsa-mir-9-1	Glioblastoma	1
+hsa-mir-1254	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-26a	Ovarian Neoplasms	1
+hsa-mir-132	Carcinoma, Hepatocellular	1
+hsa-mir-3607	Prostatic Neoplasms	1
+hsa-mir-99a	Breast Neoplasms	1
+hsa-mir-769	Melanoma	1
+hsa-mir-181b	Inflammation	1
+hsa-mir-125a	Osteosarcoma	1
+hsa-mir-101	Osteoarthritis	1
+hsa-mir-487b	Nervous System Diseases	1
+hsa-mir-195	Osteosarcoma	1
+hsa-mir-7-1	Glioma	1
+hsa-mir-128	Colorectal Neoplasms	1
+hsa-mir-31	Carcinoma, Hepatocellular	1
+hsa-mir-31	Ovarian Neoplasms	1
+hsa-mir-106a	Cardiomyopathy, Hypertrophic	1
+hsa-mir-125b	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-128	Prostatic Neoplasms	1
+hsa-mir-184	Carcinoma, Squamous Cell	1
+hsa-mir-92a-2	Neoplasms	1
+hsa-mir-216b	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-520b	Lung Neoplasms	1
+hsa-mir-132	Diabetes Mellitus, Type 2	1
+hsa-mir-29a	Inflammation	1
+hsa-mir-663a	Carcinoma, Hepatocellular	1
+hsa-mir-219	Carcinoma, Hepatocellular	1
+hsa-mir-34a	Growth Hormone-Secreting Pituitary Adenoma	1
+hsa-mir-218-2	Glioma	1
+hsa-mir-135a-1	Carcinoma, Renal Cell	1
+hsa-mir-19b	Neoplasms	1
+hsa-mir-222	Osteoarthritis	1
+hsa-mir-127	Bone Neoplasms	1
+hsa-mir-610	Glioma	1
+hsa-mir-21	Keloid	1
+hsa-mir-592	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-302	Pituitary Neoplasms	1
+hsa-mir-449a	Glioma	1
+hsa-mir-221	Chemical and Drug Induced Liver Injury	1
+hsa-mir-92b	Carcinoma, Hepatocellular	1
+hsa-mir-143	Melanoma	1
+hsa-mir-382	Diabetic Nephropathies	1
+hsa-mir-139	Breast Neoplasms	1
+hsa-mir-151	Breast Neoplasms	1
+hsa-mir-21	Inflammation	1
+hsa-mir-18a	Leukemia, Lymphocytic, Chronic, B-Cell	1
+hsa-mir-154	Neuralgia	1
+hsa-mir-182	Medulloblastoma	1
+hsa-mir-17	Lymphoma, B-Cell	1
+hsa-mir-126	Heart Diseases	1
+hsa-mir-33b	Breast Neoplasms	1
+hsa-mir-145	Carcinoma, Renal Cell	1
+hsa-mir-145	Uterine Cervical Neoplasms	1
+hsa-mir-26a	Atherosclerosis	1
+hsa-mir-218	Glioma	1
+hsa-mir-16-2	Colorectal Neoplasms	1
+hsa-mir-181a	Myocardial Infarction	1
+hsa-mir-18a	Immune System Diseases	1
+hsa-let-7f-1	Stomach Neoplasms	1
+hsa-mir-101-2	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-940	Breast Neoplasms	1
+hsa-mir-411	Urinary Bladder Neoplasms	1
+hsa-mir-101-2	Lung Neoplasms	1
+hsa-mir-23c	Diabetic Nephropathies	1
+hsa-mir-99a	Lung Neoplasms	1
+hsa-mir-196a	Uterine Cervical Neoplasms	1
+hsa-mir-608	Carcinoma, Hepatocellular	1
+hsa-mir-146a	Multiple Myeloma	1
+hsa-mir-142	Breast Neoplasms	1
+hsa-mir-126	Diabetes Mellitus	1
+hsa-mir-186	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-199a	Hepatitis C	1
+hsa-mir-224	Breast Neoplasms	1
+hsa-mir-17	Leukemia-Lymphoma, Adult T-Cell	1
+hsa-let-7c	Colonic Neoplasms	1
+hsa-mir-203	Carcinoma, Merkel Cell	1
+hsa-mir-130a	Heart Diseases	1
+hsa-mir-139	Prostatic Neoplasms	1
+hsa-mir-372	Glioma	1
+hsa-mir-128	Carcinoma, Non-Small-Cell Lung	1
+hsa-mir-15a	Uterine Cervical Neoplasms	1
+hsa-mir-92a	Neoplasms	1
+hsa-mir-200b	Pancreatic Neoplasms	1
+hsa-mir-145	Wounds and Injuries	1
+hsa-mir-15b	Encephalitis Viruses, Japanese	1
+hsa-mir-181b	Breast Neoplasms	1
+hsa-mir-378a	Rhabdomyosarcoma	1
+hsa-mir-203	Neuroblastoma	1
+hsa-mir-575	Atherosclerosis	1
+hsa-mir-7	Neurodegenerative Diseases	1
