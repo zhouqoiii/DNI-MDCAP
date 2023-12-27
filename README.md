@@ -8,6 +8,7 @@ DNI-MDCAP: Improvement of Causal MiRNA-Disease Association Prediction Based on D
 ## Instructions
 + '4models_comparison' folder contains all prediction scores of different models based on filtered training and testing sets of DNI-MDCAP, in which label 1, 2, 3 represent causal, non-causal, non-disease respectively.
 + 'data' folder contains all datasets for DNI-MDCAP.
++ 'ge' folder is cited from: Wu XB, Zhou Y: GE-Impute: graph embedding-based imputation for single-cell RNA-seq data. Brief Bioinform 2022, 23(5):bbac313.
 + 'network' folder contains the miRNA metrics and miRNA-disease metrics after network imputation.
 + 'result' folder contains all prediction results of DNI-MDCAP.
 ## Tutorial
